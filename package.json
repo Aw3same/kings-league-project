@@ -13,7 +13,11 @@
     "cheerio": "1.0.0-rc.12"
   },
   "devDependencies": {
-    "standart": "^6.1.0"
+    "@cloudflare/workers-types": "^4.20221111.1",
+    "standart": "^6.1.0",
+    "typescript": "^4.9.4",
+    "vitest": "^0.27.0",
+    "wrangler": "^2.7.1"
   },
   "eslintConfig": {
     "extends": "standart"
