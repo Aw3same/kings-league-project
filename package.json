@@ -1,0 +1,21 @@
+{
+  "name": "kings-league",
+  "version": "1.0.0",
+  "description": "API project for Kings League",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ángel Barroso Sanz",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "1.0.0-rc.12"
+  },
+  "devDependencies": {
+    "standart": "^6.1.0"
+  },
+  "eslintConfig": {
+    "extends": "standart"
+  }
+}
