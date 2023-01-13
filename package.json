@@ -7,7 +7,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev:api": "wrangler dev",
-    "publish:api": "wrangler publish src/index.ts "
+    "publish:api": "wrangler publish"
   },
   "author": "Ángel Barroso Sanz",
   "license": "ISC",
