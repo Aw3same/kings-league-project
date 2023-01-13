@@ -1,3 +1,3 @@
-name = "kings-league-project"
-main = "src/index.ts"
+name = "kings-league-api"
+main = "api/index.ts"
 compatibility_date = "2023-01-10"
