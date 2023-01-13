@@ -2,73 +2,73 @@
   {
     "id": "iker-casillas",
     "name": "Iker Casillas",
-    "image": "iker-casillas.png",
+    "image": "https://kings-league-api.aw3same.workers.dev/static/presidents/iker-casillas.png",
     "teamId": "1k"
   },
   {
     "id": "juan-guarnizo",
     "name": "Juan Guarnizo",
-    "image": "juan-guarnizo.png",
+    "image": "https://kings-league-api.aw3same.workers.dev/static/presidents/juan-guarnizo.png",
     "teamId": "aniquiladores-fc"
   },
   {
     "id": "adri-contreras",
     "name": "Adri Contreras",
-    "image": "adri-contreras.png",
+    "image": "https://kings-league-api.aw3same.workers.dev/static/presidents/adri-contreras.png",
     "teamId": "el-barrio"
   },
   {
     "id": "gerard-romero",
     "name": "Gerard Romero",
-    "image": "gerard-romero.png",
+    "image": "https://kings-league-api.aw3same.workers.dev/static/presidents/gerard-romero.png",
     "teamId": "jijantes-fc"
   },
   {
     "id": "kun-aguero",
     "name": "Kun Agüero",
-    "image": "kun-aguero.png",
+    "image": "https://kings-league-api.aw3same.workers.dev/static/presidents/kun-aguero.png",
     "teamId": "kunisports"
   },
   {
     "id": "perxitaa",
     "name": "Perxitaa",
-    "image": "perxitaa.png",
+    "image": "https://kings-league-api.aw3same.workers.dev/static/presidents/perxitaa.png",
     "teamId": "los-troncos-fc"
   },
   {
     "id": "rivers",
     "name": "Rivers",
-    "image": "rivers.png",
+    "image": "https://kings-league-api.aw3same.workers.dev/static/presidents/rivers.png",
     "teamId": "pio-fc"
   },
   {
     "id": "ibai-llanos",
     "name": "Ibai Llanos",
-    "image": "ibai-llanos.png",
+    "image": "https://kings-league-api.aw3same.workers.dev/static/presidents/ibai-llanos.png",
     "teamId": "porcinos-fc"
   },
   {
     "id": "spursito",
     "name": "Spursito",
-    "image": "spursito.png",
+    "image": "https://kings-league-api.aw3same.workers.dev/static/presidents/spursito.png",
     "teamId": "rayo-barcelona"
   },
   {
     "id": "thegrefg",
     "name": "TheGrefg",
-    "image": "thegrefg.png",
+    "image": "https://kings-league-api.aw3same.workers.dev/static/presidents/thegrefg.png",
     "teamId": "saiyans-fc"
   },
   {
     "id": "djmariio",
     "name": "DjMaRiiO",
-    "image": "djmariio.png",
+    "image": "https://kings-league-api.aw3same.workers.dev/static/presidents/djmariio.png",
     "teamId": "ultimate-mostoles"
   },
   {
     "id": "hnos-buyer",
     "name": "Hnos. Buyer",
-    "image": "hnos-buyer.png",
+    "image": "https://kings-league-api.aw3same.workers.dev/static/presidents/hnos-buyer.png",
     "teamId": "xbuyer-team"
   }
 ]
