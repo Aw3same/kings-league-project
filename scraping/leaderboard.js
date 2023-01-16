@@ -5,7 +5,7 @@ const URLS = {
   leaderboard: 'https://kingsleague.pro/estadisticas/clasificacion/',
   teams: 'https://kingsleague.pro/wp-json/wp/v2/teams',
   players: 'https://kingsleague.pro/wp-json/wp/v2/playerteams',
-  matches: 'https://kingsleague.pro/wp-json/wp/v2/matches',
+  matches: 'https://kingsleague.pro/wp-json/wp/v2/matches'
 }
 
 async function scrape(url) {
@@ -25,15 +25,19 @@ async function getLeaderBoard() {
     scoredGoals: { selector: '.fs-table-text_6', typeOf: 'number' },
     concededGoals: { selector: '.fs-table-text_7', typeOf: 'number' },
     yellowCards: { selector: '.fs-table-text_8', typeOf: 'number' },
-    redCards: { selector: '.fs-table-text_9', typeOf: 'number' },
+    redCards: { selector: '.fs-table-text_9', typeOf: 'number' }
   }
 
   const getTeamFrom = ({ name }) => {
-    const { presidentId, ...restOfTeam} = TEAMS.find(team => team.name === name)
-    const president = PRESIDENTS.find(president => president.id === presidentId)
-    return { ...restOfTeam, president}
+    const { presidentId, ...restOfTeam } = TEAMS.find(
+      (team) => team.name === name
+    )
+    const president = PRESIDENTS.find(
+      (president) => president.id === presidentId
+    )
+    return { ...restOfTeam, president }
   }
-  const cleanText = text =>
+  const cleanText = (text) =>
     text
       .replace(/\t|\n|\s:/g, '')
       .replace(/.*:/g, ' ')
@@ -56,7 +60,7 @@ async function getLeaderBoard() {
 
     leaderboard.push({
       ...leaderboardForTeam,
-      team,
+      team
     })
   })
 
