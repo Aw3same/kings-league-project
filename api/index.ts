@@ -31,7 +31,7 @@ app.get('/presidents/:id', c => {
   const foundPresident = presidents.find(president => president.id === id)
   return foundPresident
     ? c.json(foundPresident)
-    : c.json({ message: 'president not found' }, 404)
+    : c.json({ message: 'President not found' }, 404)
 })
 app.get('/teams', c => c.json(teams))
 app.get('/teams:id', c => {
