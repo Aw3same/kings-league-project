@@ -2,7 +2,7 @@
   {
     "id": "1k",
     "name": "1K FC",
-    "image": "/1k.svg",
+    "image": "https://kingsleague.dev/teams/logos/1k.svg",
     "url": "",
     "presidentId": "iker-casillas",
     "channel": "https://twitch.tv/1k",
@@ -18,7 +18,7 @@
   {
     "id": "el-barrio",
     "name": "El Barrio",
-    "image": "/el-barrio.svg",
+    "image": "https://kingsleague.dev/teams/logos/el-barrio.svg",
     "url": "",
     "presidentId": "adri-contreras",
     "channel": "https://twitch.tv/1k",
@@ -34,7 +34,7 @@
   {
     "id": "ultimate-mostoles",
     "name": "Ultimate Móstoles",
-    "image": "/ultimate-mostoles.svg",
+    "image": "https://kingsleague.dev/teams/logos/ultimate-mostoles.svg",
     "url": "",
     "presidentId": "djmariio",
     "channel": "https://twitch.tv/1k",
@@ -47,7 +47,7 @@
   {
     "id": "los-troncos-fc",
     "name": "Los Troncos FC",
-    "image": "/los-troncos.svg",
+    "image": "https://kingsleague.dev/teams/logos/los-troncos.svg",
     "url": "",
     "presidentId": "perxitaa",
     "channel": "https://twitch.tv/1k",
@@ -63,7 +63,7 @@
   {
     "id": "saiyans-fc",
     "name": "Saiyans FC",
-    "image": "/saiyans-fc.svg",
+    "image": "https://kingsleague.dev/teams/logos/saiyans-fc.svg",
     "url": "",
     "presidentId": "thegrefg",
     "channel": "https://twitch.tv/1k",
@@ -76,7 +76,7 @@
   {
     "id": "kunisports",
     "name": "Kunisports",
-    "image": "/kunisports.svg",
+    "image": "https://kingsleague.dev/teams/logos/kunisports.svg",
     "url": "",
     "presidentId": "kun-aguero",
     "channel": "https://twitch.tv/1k",
@@ -89,7 +89,7 @@
   {
     "id": "jijantes-fc",
     "name": "Jijantes FC",
-    "image": "/jijantes.svg",
+    "image": "https://kingsleague.dev/teams/logos/jijantes.svg",
     "url": "",
     "presidentId": "gerard-romero",
     "channel": "https://twitch.tv/1k",
@@ -105,7 +105,7 @@
   {
     "id": "porcinos-fc",
     "name": "Porcinos FC",
-    "image": "/porcinos-fc.svg",
+    "image": "https://kingsleague.dev/teams/logos/porcinos-fc.svg",
     "url": "",
     "presidentId": "ibai-llanos",
     "channel": "https://twitch.tv/1k",
@@ -119,7 +119,7 @@
   {
     "id": "rayo-barcelona",
     "name": "Rayo de Barcelona",
-    "image": "/rayo-barcelona.svg",
+    "image": "https://kingsleague.dev/teams/logos/rayo-barcelona.svg",
     "url": "",
     "presidentId": "spursito",
     "channel": "https://twitch.tv/1k",
@@ -135,7 +135,7 @@
   {
     "id": "xbuyer-team",
     "name": "XBUYER TEAM",
-    "image": "/xbuyer-team.svg",
+    "image": "https://kingsleague.dev/teams/logos/xbuyer-team.svg",
     "url": "",
     "presidentId": "hnos-buyer",
     "channel": "https://twitch.tv/1k",
@@ -148,7 +148,7 @@
   {
     "id": "aniquiladores-fc",
     "name": "Aniquiladores FC",
-    "image": "/aniquiladores.svg",
+    "image": "https://kingsleague.dev/teams/logos/aniquiladores.svg",
     "url": "",
     "presidentId": "juan-guarnizo",
     "channel": "https://twitch.tv/1k",
@@ -161,7 +161,7 @@
   {
     "id": "pio-fc",
     "name": "PIO FC",
-    "image": "/pio.svg",
+    "image": "https://kingsleague.dev/teams/logos/pio.svg",
     "url": "",
     "presidentId": "rivers",
     "channel": "https://twitch.tv/1k",

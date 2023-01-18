@@ -6,40 +6,36 @@ import teams from '../db/teams.json'
 
 const app = new Hono()
 
-app.get('/', context =>
-  context.json([
-    {
-      endpoint: '/leaderboard',
-      description: 'Returns the leaderboard',
-    },
-    {
-      endpoint: '/teams',
-      description: 'Returns the teams',
-    },
-    {
-      endpoint: '/presidents',
-      description: 'Returns the presidents',
-    },
-  ])
+app.get('/', (context) =>
+	context.json([
+		{
+			endpoint: '/leaderboard',
+			description: 'Returns the leaderboard'
+		},
+		{
+			endpoint: '/teams',
+			description: 'Returns the teams'
+		},
+		{
+			endpoint: '/presidents',
+			description: 'Returns the presidents'
+		}
+	])
 )
 
-app.get('/leaderboard', c => c.json(leaderboard))
+app.get('/leaderboard', (c) => c.json(leaderboard))
 
-app.get('/presidents', c => c.json(presidents))
-app.get('/presidents/:id', c => {
-  const id = c.req.param('id')
-  const foundPresident = presidents.find(president => president.id === id)
-  return foundPresident
-    ? c.json(foundPresident)
-    : c.json({ message: 'President not found' }, 404)
+app.get('/presidents', (c) => c.json(presidents))
+app.get('/presidents/:id', (c) => {
+	const id = c.req.param('id')
+	const foundPresident = presidents.find((president) => president.id === id)
+	return foundPresident ? c.json(foundPresident) : c.json({ message: 'President not found' }, 404)
 })
-app.get('/teams', c => c.json(teams))
-app.get('/teams:id', c => {
-  const id = c.req.param('id')
-  const foundTeam = teams.find(team => team.id === id)
-  return foundTeam
-    ? c.json(foundTeam)
-    : c.json({ message: 'Team not found' }, 404)
+app.get('/teams', (c) => c.json(teams))
+app.get('/teams:id', (c) => {
+	const id = c.req.param('id')
+	const foundTeam = teams.find((team) => team.id === id)
+	return foundTeam ? c.json(foundTeam) : c.json({ message: 'Team not found' }, 404)
 })
 
 app.get('/static/*', serveStatic({ root: './' }))
