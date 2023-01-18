@@ -12,7 +12,8 @@
     "preview": "astro preview",
     "publish:api": "wrangler publish",
     "start": "astro dev",
-    "test": "vitest"
+    "test": "vitest",
+	"test:cov": "vitest run --coverage"
   },
   "author": "Ángel Barroso Sanz",
   "license": "ISC",
