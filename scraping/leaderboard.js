@@ -1,18 +1,5 @@
-import * as cheerio from 'cheerio'
 import { writeDBFile, TEAMS, PRESIDENTS } from '../db/index.js'
-
-const URLS = {
-	leaderboard: 'https://kingsleague.pro/estadisticas/clasificacion/',
-	teams: 'https://kingsleague.pro/wp-json/wp/v2/teams',
-	players: 'https://kingsleague.pro/wp-json/wp/v2/playerteams',
-	matches: 'https://kingsleague.pro/wp-json/wp/v2/matches'
-}
-
-async function scrape(url) {
-	const res = await fetch(url)
-	const html = await res.text()
-	return cheerio.load(html)
-}
+import { URLS, scrape } from './utils.js'
 
 async function getLeaderBoard() {
 	const $ = await scrape(URLS.leaderboard)
@@ -21,7 +8,7 @@ async function getLeaderBoard() {
 	const LEADERBOARD_SELECTORS = {
 		team: { selector: '.fs-table-text_3', typeOf: 'string' },
 		wins: { selector: '.fs-table-text_4', typeOf: 'number' },
-		loses: { selector: '.fs-table-text_5', typeOf: 'number' },
+		losses: { selector: '.fs-table-text_5', typeOf: 'number' },
 		scoredGoals: { selector: '.fs-table-text_6', typeOf: 'number' },
 		concededGoals: { selector: '.fs-table-text_7', typeOf: 'number' },
 		yellowCards: { selector: '.fs-table-text_8', typeOf: 'number' },
