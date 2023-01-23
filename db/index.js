@@ -16,3 +16,8 @@ export function writeDBFile(dbName, data) {
     JSON.stringify(data, null, 2, 'utf-8')
   )
 }
+
+export function getImageFromTeam({ name }) {
+	const { image } = TEAMS.find((team) => team.name === name)
+	return image
+}
