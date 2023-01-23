@@ -1,402 +1,170 @@
 [
-	{
-	  "rank": 1,
-	  "playerName": "Feliu",
-	  "gamesPlayed": 1,
-	  "mvps": 1,
-	  "team": "Saiyans FC",
-	  "image": "https://kings-league-api.midudev.workers.dev/static/logos/saiyans-fc.svg"
-	},
-	{
-	  "rank": 1,
-	  "playerName": "Jacobo",
-	  "gamesPlayed": 1,
-	  "mvps": 1,
-	  "team": "El Barrio",
-	  "image": "https://kings-league-api.midudev.workers.dev/static/logos/el-barrio.svg"
-	},
-	{
-	  "rank": 1,
-	  "playerName": "J. Verdú “Gingko”",
-	  "gamesPlayed": 1,
-	  "mvps": 1,
-	  "team": "Los Troncos FC",
-	  "image": "https://kings-league-api.midudev.workers.dev/static/logos/los-troncos.svg"
-	},
-	{
-	  "rank": 1,
-	  "playerName": "Juanma Glez",
-	  "gamesPlayed": 1,
-	  "mvps": 1,
-	  "team": "Ultimate Móstoles",
-	  "image": "https://kings-league-api.midudev.workers.dev/static/logos/ultimate-mostoles.svg"
-	},
-	{
-	  "rank": 1,
-	  "playerName": "Víctor",
-	  "gamesPlayed": 1,
-	  "mvps": 1,
-	  "team": "Kunisports",
-	  "image": "https://kings-league-api.midudev.workers.dev/static/logos/kunisports.svg"
-	},
-	{
-	  "rank": 1,
-	  "playerName": "Sorroche",
-	  "gamesPlayed": 1,
-	  "mvps": 1,
-	  "team": "1K FC",
-	  "image": "https://kings-league-api.midudev.workers.dev/static/logos/1k.svg"
-	},
-	{
-	  "rank": 1,
-	  "playerName": "J. Segovia",
-	  "gamesPlayed": 0,
-	  "mvps": 0,
-	  "team": "Porcinos FC",
-	  "image": "https://kings-league-api.midudev.workers.dev/static/logos/porcinos-fc.svg"
-	},
-	{
-	  "rank": 1,
-	  "playerName": "G.Cichero",
-	  "gamesPlayed": 0,
-	  "mvps": 0,
-	  "team": "Porcinos FC",
-	  "image": "https://kings-league-api.midudev.workers.dev/static/logos/porcinos-fc.svg"
-	},
-	{
-	  "rank": 1,
-	  "playerName": "David L.L.",
-	  "gamesPlayed": 0,
-	  "mvps": 0,
-	  "team": "Porcinos FC",
-	  "image": "https://kings-league-api.midudev.workers.dev/static/logos/porcinos-fc.svg"
-	},
-	{
-	  "rank": 1,
-	  "playerName": "Toti",
-	  "gamesPlayed": 0,
-	  "mvps": 0,
-	  "team": "Porcinos FC",
-	  "image": "https://kings-league-api.midudev.workers.dev/static/logos/porcinos-fc.svg"
-	},
-	{
-	  "rank": 1,
-	  "playerName": "A.Ripol",
-	  "gamesPlayed": 0,
-	  "mvps": 0,
-	  "team": "Porcinos FC",
-	  "image": "https://kings-league-api.midudev.workers.dev/static/logos/porcinos-fc.svg"
-	},
-	{
-	  "rank": 1,
-	  "playerName": "Kilian",
-	  "gamesPlayed": 1,
-	  "mvps": 0,
-	  "team": "Porcinos FC",
-	  "image": "https://kings-league-api.midudev.workers.dev/static/logos/porcinos-fc.svg"
-	},
-	{
-	  "rank": 1,
-	  "playerName": "J. Blanco",
-	  "gamesPlayed": 0,
-	  "mvps": 0,
-	  "team": "Porcinos FC",
-	  "image": "https://kings-league-api.midudev.workers.dev/static/logos/porcinos-fc.svg"
-	},
-	{
-	  "rank": 1,
-	  "playerName": "Lil Pizza",
-	  "gamesPlayed": 0,
-	  "mvps": 0,
-	  "team": "Porcinos FC",
-	  "image": "https://kings-league-api.midudev.workers.dev/static/logos/porcinos-fc.svg"
-	},
-	{
-	  "rank": 1,
-	  "playerName": "Lao",
-	  "gamesPlayed": 0,
-	  "mvps": 0,
-	  "team": "Porcinos FC",
-	  "image": "https://kings-league-api.midudev.workers.dev/static/logos/porcinos-fc.svg"
-	},
-	{
-	  "rank": 1,
-	  "playerName": "Sergi",
-	  "gamesPlayed": 0,
-	  "mvps": 0,
-	  "team": "Porcinos FC",
-	  "image": "https://kings-league-api.midudev.workers.dev/static/logos/porcinos-fc.svg"
-	},
-	{
-	  "rank": 1,
-	  "playerName": "Tamudo",
-	  "gamesPlayed": 1,
-	  "mvps": 0,
-	  "team": "Porcinos FC",
-	  "image": "https://kings-league-api.midudev.workers.dev/static/logos/porcinos-fc.svg"
-	},
-	{
-	  "rank": 1,
-	  "playerName": "Chicharito",
-	  "gamesPlayed": 1,
-	  "mvps": 0,
-	  "team": "Porcinos FC",
-	  "image": "https://kings-league-api.midudev.workers.dev/static/logos/porcinos-fc.svg"
-	},
-	{
-	  "rank": 1,
-	  "playerName": "Briones",
-	  "gamesPlayed": 0,
-	  "mvps": 0,
-	  "team": "Saiyans FC",
-	  "image": "https://kings-league-api.midudev.workers.dev/static/logos/saiyans-fc.svg"
-	},
-	{
-	  "rank": 1,
-	  "playerName": "Gio Ferinu",
-	  "gamesPlayed": 1,
-	  "mvps": 0,
-	  "team": "Saiyans FC",
-	  "image": "https://kings-league-api.midudev.workers.dev/static/logos/saiyans-fc.svg"
-	},
-	{
-	  "rank": 1,
-	  "playerName": "Campu",
-	  "gamesPlayed": 0,
-	  "mvps": 0,
-	  "team": "Saiyans FC",
-	  "image": "https://kings-league-api.midudev.workers.dev/static/logos/saiyans-fc.svg"
-	},
-	{
-	  "rank": 1,
-	  "playerName": "Temo",
-	  "gamesPlayed": 0,
-	  "mvps": 0,
-	  "team": "Saiyans FC",
-	  "image": "https://kings-league-api.midudev.workers.dev/static/logos/saiyans-fc.svg"
-	},
-	{
-	  "rank": 1,
-	  "playerName": "C. Valle",
-	  "gamesPlayed": 0,
-	  "mvps": 0,
-	  "team": "Saiyans FC",
-	  "image": "https://kings-league-api.midudev.workers.dev/static/logos/saiyans-fc.svg"
-	},
-	{
-	  "rank": 1,
-	  "playerName": "V. Torres",
-	  "gamesPlayed": 0,
-	  "mvps": 0,
-	  "team": "Saiyans FC",
-	  "image": "https://kings-league-api.midudev.workers.dev/static/logos/saiyans-fc.svg"
-	},
-	{
-	  "rank": 1,
-	  "playerName": "David Alba",
-	  "gamesPlayed": 1,
-	  "mvps": 0,
-	  "team": "Saiyans FC",
-	  "image": "https://kings-league-api.midudev.workers.dev/static/logos/saiyans-fc.svg"
-	},
-	{
-	  "rank": 1,
-	  "playerName": "R. Carbó",
-	  "gamesPlayed": 1,
-	  "mvps": 0,
-	  "team": "Saiyans FC",
-	  "image": "https://kings-league-api.midudev.workers.dev/static/logos/saiyans-fc.svg"
-	},
-	{
-	  "rank": 1,
-	  "playerName": "Fajardo",
-	  "gamesPlayed": 0,
-	  "mvps": 0,
-	  "team": "Saiyans FC",
-	  "image": "https://kings-league-api.midudev.workers.dev/static/logos/saiyans-fc.svg"
-	},
-	{
-	  "rank": 1,
-	  "playerName": "Alfaya Jr.",
-	  "gamesPlayed": 0,
-	  "mvps": 0,
-	  "team": "Saiyans FC",
-	  "image": "https://kings-league-api.midudev.workers.dev/static/logos/saiyans-fc.svg"
-	},
-	{
-	  "rank": 1,
-	  "playerName": "Capdevila",
-	  "gamesPlayed": 1,
-	  "mvps": 0,
-	  "team": "Saiyans FC",
-	  "image": "https://kings-league-api.midudev.workers.dev/static/logos/saiyans-fc.svg"
-	},
-	{
-	  "rank": 1,
-	  "playerName": "Dani P.",
-	  "gamesPlayed": 1,
-	  "mvps": 0,
-	  "team": "Aniquiladores FC",
-	  "image": "https://kings-league-api.midudev.workers.dev/static/logos/aniquiladores.svg"
-	},
-	{
-	  "rank": 1,
-	  "playerName": "Galvany",
-	  "gamesPlayed": 1,
-	  "mvps": 0,
-	  "team": "Aniquiladores FC",
-	  "image": "https://kings-league-api.midudev.workers.dev/static/logos/aniquiladores.svg"
-	},
-	{
-	  "rank": 1,
-	  "playerName": "Andrés",
-	  "gamesPlayed": 1,
-	  "mvps": 0,
-	  "team": "Aniquiladores FC",
-	  "image": "https://kings-league-api.midudev.workers.dev/static/logos/aniquiladores.svg"
-	},
-	{
-	  "rank": 1,
-	  "playerName": "Bernat",
-	  "gamesPlayed": 1,
-	  "mvps": 0,
-	  "team": "Aniquiladores FC",
-	  "image": "https://kings-league-api.midudev.workers.dev/static/logos/aniquiladores.svg"
-	},
-	{
-	  "rank": 1,
-	  "playerName": "Pau Mañé",
-	  "gamesPlayed": 1,
-	  "mvps": 0,
-	  "team": "Aniquiladores FC",
-	  "image": "https://kings-league-api.midudev.workers.dev/static/logos/aniquiladores.svg"
-	},
-	{
-	  "rank": 1,
-	  "playerName": "Jorquera",
-	  "gamesPlayed": 1,
-	  "mvps": 0,
-	  "team": "Aniquiladores FC",
-	  "image": "https://kings-league-api.midudev.workers.dev/static/logos/aniquiladores.svg"
-	},
-	{
-	  "rank": 1,
-	  "playerName": "Gilles V.",
-	  "gamesPlayed": 1,
-	  "mvps": 0,
-	  "team": "Aniquiladores FC",
-	  "image": "https://kings-league-api.midudev.workers.dev/static/logos/aniquiladores.svg"
-	},
-	{
-	  "rank": 1,
-	  "playerName": "Jadir",
-	  "gamesPlayed": 1,
-	  "mvps": 0,
-	  "team": "Aniquiladores FC",
-	  "image": "https://kings-league-api.midudev.workers.dev/static/logos/aniquiladores.svg"
-	},
-	{
-	  "rank": 1,
-	  "playerName": "Roger",
-	  "gamesPlayed": 1,
-	  "mvps": 0,
-	  "team": "Aniquiladores FC",
-	  "image": "https://kings-league-api.midudev.workers.dev/static/logos/aniquiladores.svg"
-	},
-	{
-	  "rank": 1,
-	  "playerName": "X.Morales",
-	  "gamesPlayed": 0,
-	  "mvps": 0,
-	  "team": "Aniquiladores FC",
-	  "image": "https://kings-league-api.midudev.workers.dev/static/logos/aniquiladores.svg"
-	},
-	{
-	  "rank": 1,
-	  "playerName": "Mase",
-	  "gamesPlayed": 1,
-	  "mvps": 0,
-	  "team": "El Barrio",
-	  "image": "https://kings-league-api.midudev.workers.dev/static/logos/el-barrio.svg"
-	},
-	{
-	  "rank": 1,
-	  "playerName": "Beguer",
-	  "gamesPlayed": 1,
-	  "mvps": 0,
-	  "team": "El Barrio",
-	  "image": "https://kings-league-api.midudev.workers.dev/static/logos/el-barrio.svg"
-	},
-	{
-	  "rank": 1,
-	  "playerName": "Ros",
-	  "gamesPlayed": 1,
-	  "mvps": 0,
-	  "team": "El Barrio",
-	  "image": "https://kings-league-api.midudev.workers.dev/static/logos/el-barrio.svg"
-	},
-	{
-	  "rank": 1,
-	  "playerName": "Ubón",
-	  "gamesPlayed": 1,
-	  "mvps": 0,
-	  "team": "El Barrio",
-	  "image": "https://kings-league-api.midudev.workers.dev/static/logos/el-barrio.svg"
-	},
-	{
-	  "rank": 1,
-	  "playerName": "Pau ZZ",
-	  "gamesPlayed": 1,
-	  "mvps": 0,
-	  "team": "El Barrio",
-	  "image": "https://kings-league-api.midudev.workers.dev/static/logos/el-barrio.svg"
-	},
-	{
-	  "rank": 1,
-	  "playerName": "Olae",
-	  "gamesPlayed": 1,
-	  "mvps": 0,
-	  "team": "El Barrio",
-	  "image": "https://kings-league-api.midudev.workers.dev/static/logos/el-barrio.svg"
-	},
-	{
-	  "rank": 1,
-	  "playerName": "O. Boada",
-	  "gamesPlayed": 1,
-	  "mvps": 0,
-	  "team": "El Barrio",
-	  "image": "https://kings-league-api.midudev.workers.dev/static/logos/el-barrio.svg"
-	},
-	{
-	  "rank": 1,
-	  "playerName": "Baranera",
-	  "gamesPlayed": 1,
-	  "mvps": 0,
-	  "team": "El Barrio",
-	  "image": "https://kings-league-api.midudev.workers.dev/static/logos/el-barrio.svg"
-	},
-	{
-	  "rank": 1,
-	  "playerName": "Capilla",
-	  "gamesPlayed": 1,
-	  "mvps": 0,
-	  "team": "El Barrio",
-	  "image": "https://kings-league-api.midudev.workers.dev/static/logos/el-barrio.svg"
-	},
-	{
-	  "rank": 1,
-	  "playerName": "José Juan",
-	  "gamesPlayed": 1,
-	  "mvps": 0,
-	  "team": "El Barrio",
-	  "image": "https://kings-league-api.midudev.workers.dev/static/logos/el-barrio.svg"
-	},
-	{
-	  "rank": 1,
-	  "playerName": "Gómez",
-	  "gamesPlayed": 1,
-	  "mvps": 0,
-	  "team": "El Barrio",
-	  "image": "https://kings-league-api.midudev.workers.dev/static/logos/el-barrio.svg"
-	}
-  ]
+  {
+    "playerName": "F. Hernández",
+    "gamesPlayed": 3,
+    "mvps": 2,
+    "rank": 1,
+    "team": "Aniquiladores FC",
+    "image": "https://kingsleague.dev/teams/logos/aniquiladores.svg"
+  },
+  {
+    "playerName": "Ubón",
+    "gamesPlayed": 4,
+    "mvps": 2,
+    "rank": 2,
+    "team": "El Barrio",
+    "image": "https://kingsleague.dev/teams/logos/el-barrio.svg"
+  },
+  {
+    "playerName": "Torrentbó",
+    "gamesPlayed": 4,
+    "mvps": 2,
+    "rank": 3,
+    "team": "Kunisports",
+    "image": "https://kingsleague.dev/teams/logos/kunisports.svg"
+  },
+  {
+    "playerName": "Ricardo",
+    "gamesPlayed": 4,
+    "mvps": 1,
+    "rank": 4,
+    "team": "1K FC",
+    "image": "https://kingsleague.dev/teams/logos/1k.svg"
+  },
+  {
+    "playerName": "Sorroche",
+    "gamesPlayed": 4,
+    "mvps": 1,
+    "rank": 5,
+    "team": "1K FC",
+    "image": "https://kingsleague.dev/teams/logos/1k.svg"
+  },
+  {
+    "playerName": "A. Bueno",
+    "gamesPlayed": 4,
+    "mvps": 1,
+    "rank": 6,
+    "team": "1K FC",
+    "image": "https://kingsleague.dev/teams/logos/1k.svg"
+  },
+  {
+    "playerName": "Jacobo",
+    "gamesPlayed": 4,
+    "mvps": 1,
+    "rank": 7,
+    "team": "El Barrio",
+    "image": "https://kingsleague.dev/teams/logos/el-barrio.svg"
+  },
+  {
+    "playerName": "Soriano",
+    "gamesPlayed": 4,
+    "mvps": 1,
+    "rank": 8,
+    "team": "Jijantes FC",
+    "image": "https://kingsleague.dev/teams/logos/jijantes.svg"
+  },
+  {
+    "playerName": "Ibai",
+    "gamesPlayed": 1,
+    "mvps": 1,
+    "rank": 9,
+    "team": "Jijantes FC",
+    "image": "https://kingsleague.dev/teams/logos/jijantes.svg"
+  },
+  {
+    "playerName": "Víctor",
+    "gamesPlayed": 4,
+    "mvps": 1,
+    "rank": 10,
+    "team": "Kunisports",
+    "image": "https://kingsleague.dev/teams/logos/kunisports.svg"
+  },
+  {
+    "playerName": "Kun Agüero",
+    "gamesPlayed": 2,
+    "mvps": 1,
+    "rank": 11,
+    "team": "Kunisports",
+    "image": "https://kingsleague.dev/teams/logos/kunisports.svg"
+  },
+  {
+    "playerName": "E. Álvaro «Roble»",
+    "gamesPlayed": 4,
+    "mvps": 1,
+    "rank": 12,
+    "team": "Los Troncos FC",
+    "image": "https://kingsleague.dev/teams/logos/los-troncos.svg"
+  },
+  {
+    "playerName": "J. Verdú «Gingko»",
+    "gamesPlayed": 3,
+    "mvps": 1,
+    "rank": 13,
+    "team": "Los Troncos FC",
+    "image": "https://kingsleague.dev/teams/logos/los-troncos.svg"
+  },
+  {
+    "playerName": "G. Cichero",
+    "gamesPlayed": 4,
+    "mvps": 1,
+    "rank": 14,
+    "team": "Porcinos FC",
+    "image": "https://kingsleague.dev/teams/logos/porcinos-fc.svg"
+  },
+  {
+    "playerName": "Lao",
+    "gamesPlayed": 4,
+    "mvps": 1,
+    "rank": 15,
+    "team": "Porcinos FC",
+    "image": "https://kingsleague.dev/teams/logos/porcinos-fc.svg"
+  },
+  {
+    "playerName": "Briones",
+    "gamesPlayed": 4,
+    "mvps": 1,
+    "rank": 16,
+    "team": "Saiyans FC",
+    "image": "https://kingsleague.dev/teams/logos/saiyans-fc.svg"
+  },
+  {
+    "playerName": "Feliu",
+    "gamesPlayed": 4,
+    "mvps": 1,
+    "rank": 17,
+    "team": "Saiyans FC",
+    "image": "https://kingsleague.dev/teams/logos/saiyans-fc.svg"
+  },
+  {
+    "playerName": "R. Carbó",
+    "gamesPlayed": 4,
+    "mvps": 1,
+    "rank": 18,
+    "team": "Saiyans FC",
+    "image": "https://kingsleague.dev/teams/logos/saiyans-fc.svg"
+  },
+  {
+    "playerName": "Arché",
+    "gamesPlayed": 4,
+    "mvps": 1,
+    "rank": 19,
+    "team": "Ultimate Móstoles",
+    "image": "https://kingsleague.dev/teams/logos/ultimate-mostoles.svg"
+  },
+  {
+    "playerName": "Juanma Glez",
+    "gamesPlayed": 4,
+    "mvps": 1,
+    "rank": 20,
+    "team": "Ultimate Móstoles",
+    "image": "https://kingsleague.dev/teams/logos/ultimate-mostoles.svg"
+  },
+  {
+    "playerName": "Fouad",
+    "gamesPlayed": 2,
+    "mvps": 1,
+    "rank": 21,
+    "team": "XBUYER TEAM",
+    "image": "https://kingsleague.dev/teams/logos/xbuyer.svg"
+  }
+]
