@@ -7,8 +7,8 @@ async function readDBFile(filename) {
   return readFile(`${DB_PATH}/${filename}.json`, 'utf-8').then(JSON.parse)
 }
 
-export const TEAMS = await readDBFile(`teams`)
-export const PRESIDENTS = await readDBFile(`presidents`)
+export const TEAMS = await readDBFile('teams')
+export const PRESIDENTS = await readDBFile('presidents')
 
 export function writeDBFile(dbName, data) {
   return writeFile(
