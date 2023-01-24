@@ -1,7 +1,8 @@
-import { getImageFromTeam } from '../db/index.js'
+import { TEAMS } from '../db/index.js'
 import { cleanText } from './utils.js'
 
 const SCORES_SELECTORS = {
+	ranking: { selector: '.fs-table-text_1', typeOf: 'string' },
 	team: { selector: '.fs-table-text_3', typeOf: 'string' },
 	playerName: { selector: '.fs-table-text_4', typeOf: 'string' },
 	gamesPlayed: { selector: '.fs-table-text_5', typeOf: 'number' },
@@ -10,6 +11,11 @@ const SCORES_SELECTORS = {
 
 export async function getTopScoresList($) {
 	const $rows = $('table tbody tr')
+
+	const getImageFromTeam = ({ name }) => {
+		const { image } = TEAMS.find((team) => team.name === name)
+		return image
+	}
 
 	const scoresSelectorEntries = Object.entries(SCORES_SELECTORS)
 	const topScorerList = []

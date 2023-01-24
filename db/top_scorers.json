@@ -1,6 +1,7 @@
 [
   {
     "rank": 1,
+    "ranking": "1",
     "playerName": "Juanma Glez",
     "gamesPlayed": 4,
     "goals": 6,
@@ -9,6 +10,7 @@
   },
   {
     "rank": 2,
+    "ranking": "1",
     "playerName": "Pelaz",
     "gamesPlayed": 4,
     "goals": 5,
@@ -17,6 +19,7 @@
   },
   {
     "rank": 3,
+    "ranking": "1",
     "playerName": "A. Bueno",
     "gamesPlayed": 4,
     "goals": 5,
@@ -25,6 +28,7 @@
   },
   {
     "rank": 4,
+    "ranking": "1",
     "playerName": "Ubón",
     "gamesPlayed": 4,
     "goals": 5,
@@ -33,6 +37,7 @@
   },
   {
     "rank": 5,
+    "ranking": "1",
     "playerName": "Jacobo",
     "gamesPlayed": 4,
     "goals": 4,
@@ -41,6 +46,7 @@
   },
   {
     "rank": 6,
+    "ranking": "1",
     "playerName": "Soriano",
     "gamesPlayed": 4,
     "goals": 4,
@@ -49,6 +55,7 @@
   },
   {
     "rank": 7,
+    "ranking": "1",
     "playerName": "H. Fraile",
     "gamesPlayed": 3,
     "goals": 4,
@@ -57,6 +64,7 @@
   },
   {
     "rank": 8,
+    "ranking": "1",
     "playerName": "Arché",
     "gamesPlayed": 4,
     "goals": 4,
@@ -65,6 +73,7 @@
   },
   {
     "rank": 9,
+    "ranking": "1",
     "playerName": "C. Castro",
     "gamesPlayed": 4,
     "goals": 4,
@@ -73,6 +82,7 @@
   },
   {
     "rank": 10,
+    "ranking": "1",
     "playerName": "Guillem ZZ",
     "gamesPlayed": 4,
     "goals": 3,
@@ -81,6 +91,7 @@
   },
   {
     "rank": 11,
+    "ranking": "1",
     "playerName": "Rivero",
     "gamesPlayed": 4,
     "goals": 3,
@@ -89,6 +100,7 @@
   },
   {
     "rank": 12,
+    "ranking": "1",
     "playerName": "E. Álvaro «Roble»",
     "gamesPlayed": 4,
     "goals": 3,
@@ -97,6 +109,7 @@
   },
   {
     "rank": 13,
+    "ranking": "1",
     "playerName": "S. Sánchez «Drago»",
     "gamesPlayed": 2,
     "goals": 3,
@@ -105,6 +118,7 @@
   },
   {
     "rank": 14,
+    "ranking": "1",
     "playerName": "J. Verdú «Gingko»",
     "gamesPlayed": 3,
     "goals": 3,
@@ -113,6 +127,7 @@
   },
   {
     "rank": 15,
+    "ranking": "1",
     "playerName": "G. Cichero",
     "gamesPlayed": 4,
     "goals": 3,
@@ -121,6 +136,7 @@
   },
   {
     "rank": 16,
+    "ranking": "1",
     "playerName": "R. Carbó",
     "gamesPlayed": 4,
     "goals": 3,
@@ -129,6 +145,7 @@
   },
   {
     "rank": 17,
+    "ranking": "1",
     "playerName": "Sorroche",
     "gamesPlayed": 4,
     "goals": 2,
@@ -137,6 +154,7 @@
   },
   {
     "rank": 18,
+    "ranking": "1",
     "playerName": "F. Hernández",
     "gamesPlayed": 3,
     "goals": 2,
@@ -145,6 +163,7 @@
   },
   {
     "rank": 19,
+    "ranking": "1",
     "playerName": "O. Boada",
     "gamesPlayed": 4,
     "goals": 2,
@@ -153,6 +172,7 @@
   },
   {
     "rank": 20,
+    "ranking": "1",
     "playerName": "Alsina",
     "gamesPlayed": 4,
     "goals": 2,
@@ -161,6 +181,7 @@
   },
   {
     "rank": 21,
+    "ranking": "1",
     "playerName": "Torrentbó",
     "gamesPlayed": 4,
     "goals": 2,
@@ -169,6 +190,7 @@
   },
   {
     "rank": 22,
+    "ranking": "1",
     "playerName": "Coro",
     "gamesPlayed": 4,
     "goals": 2,
@@ -177,6 +199,7 @@
   },
   {
     "rank": 23,
+    "ranking": "1",
     "playerName": "J. Blanco",
     "gamesPlayed": 4,
     "goals": 2,
@@ -185,6 +208,7 @@
   },
   {
     "rank": 24,
+    "ranking": "1",
     "playerName": "Gio Ferinu",
     "gamesPlayed": 3,
     "goals": 2,
@@ -193,6 +217,7 @@
   },
   {
     "rank": 25,
+    "ranking": "1",
     "playerName": "Feliu",
     "gamesPlayed": 4,
     "goals": 2,
@@ -201,6 +226,7 @@
   },
   {
     "rank": 26,
+    "ranking": "1",
     "playerName": "Aleix",
     "gamesPlayed": 4,
     "goals": 2,
@@ -209,6 +235,7 @@
   },
   {
     "rank": 27,
+    "ranking": "1",
     "playerName": "M. Reyes",
     "gamesPlayed": 4,
     "goals": 1,
@@ -217,6 +244,7 @@
   },
   {
     "rank": 28,
+    "ranking": "1",
     "playerName": "Alex Race",
     "gamesPlayed": 4,
     "goals": 1,
@@ -225,6 +253,7 @@
   },
   {
     "rank": 29,
+    "ranking": "1",
     "playerName": "Román",
     "gamesPlayed": 4,
     "goals": 1,
@@ -233,6 +262,7 @@
   },
   {
     "rank": 30,
+    "ranking": "1",
     "playerName": "Marino",
     "gamesPlayed": 4,
     "goals": 1,
@@ -241,6 +271,7 @@
   },
   {
     "rank": 31,
+    "ranking": "1",
     "playerName": "Sauras",
     "gamesPlayed": 4,
     "goals": 1,
@@ -249,6 +280,7 @@
   },
   {
     "rank": 32,
+    "ranking": "1",
     "playerName": "Bernat",
     "gamesPlayed": 4,
     "goals": 1,
@@ -257,6 +289,7 @@
   },
   {
     "rank": 33,
+    "ranking": "1",
     "playerName": "Gilles V.",
     "gamesPlayed": 4,
     "goals": 1,
@@ -265,6 +298,7 @@
   },
   {
     "rank": 34,
+    "ranking": "1",
     "playerName": "Roger",
     "gamesPlayed": 4,
     "goals": 1,
@@ -273,6 +307,7 @@
   },
   {
     "rank": 35,
+    "ranking": "1",
     "playerName": "Goku",
     "gamesPlayed": 1,
     "goals": 1,
@@ -281,6 +316,7 @@
   },
   {
     "rank": 36,
+    "ranking": "1",
     "playerName": "Ros",
     "gamesPlayed": 4,
     "goals": 1,
@@ -289,6 +325,7 @@
   },
   {
     "rank": 37,
+    "ranking": "1",
     "playerName": "Maca",
     "gamesPlayed": 4,
     "goals": 1,
@@ -297,6 +334,7 @@
   },
   {
     "rank": 38,
+    "ranking": "1",
     "playerName": "Nando",
     "gamesPlayed": 1,
     "goals": 1,
@@ -305,6 +343,7 @@
   },
   {
     "rank": 39,
+    "ranking": "1",
     "playerName": "Ibai",
     "gamesPlayed": 1,
     "goals": 1,
@@ -313,6 +352,7 @@
   },
   {
     "rank": 40,
+    "ranking": "1",
     "playerName": "Guerrero",
     "gamesPlayed": 4,
     "goals": 1,
@@ -321,6 +361,7 @@
   },
   {
     "rank": 41,
+    "ranking": "1",
     "playerName": "Joan Inés",
     "gamesPlayed": 4,
     "goals": 1,
@@ -329,6 +370,7 @@
   },
   {
     "rank": 42,
+    "ranking": "1",
     "playerName": "Kun Agüero",
     "gamesPlayed": 2,
     "goals": 1,
@@ -337,6 +379,7 @@
   },
   {
     "rank": 43,
+    "ranking": "1",
     "playerName": "Lechuga",
     "gamesPlayed": 4,
     "goals": 1,
@@ -345,6 +388,7 @@
   },
   {
     "rank": 44,
+    "ranking": "1",
     "playerName": "X. Molas «Mimosa»",
     "gamesPlayed": 4,
     "goals": 1,
@@ -353,6 +397,7 @@
   },
   {
     "rank": 45,
+    "ranking": "1",
     "playerName": "Carlitos",
     "gamesPlayed": 4,
     "goals": 1,
@@ -361,6 +406,7 @@
   },
   {
     "rank": 46,
+    "ranking": "1",
     "playerName": "Pau Fer",
     "gamesPlayed": 4,
     "goals": 1,
@@ -369,6 +415,7 @@
   },
   {
     "rank": 47,
+    "ranking": "1",
     "playerName": "Cokita",
     "gamesPlayed": 4,
     "goals": 1,
@@ -377,6 +424,7 @@
   },
   {
     "rank": 48,
+    "ranking": "1",
     "playerName": "Lopo",
     "gamesPlayed": 4,
     "goals": 1,
@@ -385,6 +433,7 @@
   },
   {
     "rank": 49,
+    "ranking": "1",
     "playerName": "J. Márquez",
     "gamesPlayed": 3,
     "goals": 1,
@@ -393,6 +442,7 @@
   },
   {
     "rank": 50,
+    "ranking": "1",
     "playerName": "Toti",
     "gamesPlayed": 4,
     "goals": 1,

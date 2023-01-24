@@ -5,10 +5,12 @@ Project with academic purposes to build and API for Kings League and its web pag
 
 # API
 ## Available endpoints
-- GET `/leaderboards`: Gets the Kings league leaderboard.
-- GET `/teams`: Gets the Kings league teams.
-- GET `/teams:id`: Gets team information by id.
-- GET `/presidents`: Gets the Kings league presidents.
-- GET `/president/:id`: Gets president information by id.
-
+* GET `/leaderboard`: Devuelve la clasificación de la Kings League.
+* GET `/teams`: Devuelve todos los equipos de la Kings League.
+* GET `/teams/:id`: Devuelve un equipo de la Kings League.
+* GET `/presidents`: Devuelve todos los presidentes de la Kings League.
+* GET `/presidents/:id`: Devuelve un presidente de la Kings League.
+* GET `/coachs`: Devuelve todos los entrenadores de la Kings League.
+* GET `/top-scorer`: Devuelve los goleadores más destacados de la Kings League.
+* GET `/mvp`: Devuelve los MVPs de la Kings League.
 # Web

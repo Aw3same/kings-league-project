@@ -1,4 +1,4 @@
-import { PRESIDENTS, TEAMS } from '../db/index.js'
+import { TEAMS, PRESIDENTS } from '../db/index.js'
 import { cleanText } from './utils.js'
 
 const LEADERBOARD_SELECTORS = {
@@ -23,8 +23,7 @@ export async function getLeaderBoard($) {
 	const leaderBoardSelectorEntries = Object.entries(LEADERBOARD_SELECTORS)
 
 	const leaderboard = []
-
-	$rows.each((index, el) => {
+	$rows.each((_, el) => {
 		const $el = $(el)
 		const leaderBoardEntries = leaderBoardSelectorEntries.map(([key, { selector, typeOf }]) => {
 			const rawValue = $el.find(selector).text()
@@ -40,8 +39,7 @@ export async function getLeaderBoard($) {
 
 		leaderboard.push({
 			...leaderboardForTeam,
-			team,
-			rank: index + 1
+			team
 		})
 	})
 

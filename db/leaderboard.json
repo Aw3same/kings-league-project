@@ -10,7 +10,7 @@
       "id": "saiyans-fc",
       "name": "Saiyans FC",
       "image": "https://kingsleague.dev/teams/logos/saiyans-fc.svg",
-      "url": "",
+      "url": "https://kingsleague.pro/team/saiyans-fc/",
       "channel": "https://twitch.tv/1k",
       "coach": "???",
       "socialNetworks": [
@@ -23,8 +23,7 @@
         "image": "https://kings-league-api.aw3same.workers.dev/static/presidents/thegrefg.png",
         "teamId": "saiyans-fc"
       }
-    },
-    "rank": 1
+    }
   },
   {
     "wins": 3,
@@ -37,7 +36,7 @@
       "id": "ultimate-mostoles",
       "name": "Ultimate Móstoles",
       "image": "https://kingsleague.dev/teams/logos/ultimate-mostoles.svg",
-      "url": "",
+      "url": "https://kingsleague.pro/team/ultimate-mostoles/",
       "channel": "https://twitch.tv/1k",
       "coach": "???",
       "socialNetworks": [
@@ -50,8 +49,7 @@
         "image": "https://kings-league-api.aw3same.workers.dev/static/presidents/djmariio.png",
         "teamId": "ultimate-mostoles"
       }
-    },
-    "rank": 2
+    }
   },
   {
     "wins": 3,
@@ -64,7 +62,7 @@
       "id": "porcinos-fc",
       "name": "Porcinos FC",
       "image": "https://kingsleague.dev/teams/logos/porcinos-fc.svg",
-      "url": "",
+      "url": "https://kingsleague.pro/team/porcinos-fc/",
       "channel": "https://twitch.tv/1k",
       "coach": "???",
       "socialNetworks": [
@@ -78,8 +76,7 @@
         "image": "https://kings-league-api.aw3same.workers.dev/static/presidents/ibai-llanos.png",
         "teamId": "porcinos-fc"
       }
-    },
-    "rank": 3
+    }
   },
   {
     "wins": 3,
@@ -92,7 +89,7 @@
       "id": "1k",
       "name": "1K FC",
       "image": "https://kingsleague.dev/teams/logos/1k.svg",
-      "url": "",
+      "url": "https://kingsleague.pro/team/1k/",
       "channel": "https://www.twitch.tv/ikercasillas",
       "coach": "???",
       "socialNetworks": [
@@ -108,8 +105,7 @@
         "image": "https://kings-league-api.aw3same.workers.dev/static/presidents/iker-casillas.png",
         "teamId": "1k"
       }
-    },
-    "rank": 4
+    }
   },
   {
     "wins": 3,
@@ -122,7 +118,7 @@
       "id": "kunisports",
       "name": "Kunisports",
       "image": "https://kingsleague.dev/teams/logos/kunisports.svg",
-      "url": "",
+      "url": "https://kingsleague.pro/team/kunisports/",
       "channel": "https://twitch.tv/1k",
       "coach": "???",
       "socialNetworks": [
@@ -135,8 +131,7 @@
         "image": "https://kings-league-api.aw3same.workers.dev/static/presidents/kun-aguero.png",
         "teamId": "kunisports"
       }
-    },
-    "rank": 5
+    }
   },
   {
     "wins": 2,
@@ -149,7 +144,7 @@
       "id": "el-barrio",
       "name": "El Barrio",
       "image": "https://kingsleague.dev/teams/logos/el-barrio.svg",
-      "url": "",
+      "url": "https://kingsleague.pro/team/el-barrio/",
       "channel": "https://twitch.tv/1k",
       "coach": "???",
       "socialNetworks": [
@@ -165,8 +160,7 @@
         "image": "https://kings-league-api.aw3same.workers.dev/static/presidents/adri-contreras.png",
         "teamId": "el-barrio"
       }
-    },
-    "rank": 6
+    }
   },
   {
     "wins": 2,
@@ -179,7 +173,7 @@
       "id": "aniquiladores-fc",
       "name": "Aniquiladores FC",
       "image": "https://kingsleague.dev/teams/logos/aniquiladores.svg",
-      "url": "",
+      "url": "https://kingsleague.pro/team/aniquiladores-fc/",
       "channel": "https://twitch.tv/1k",
       "coach": "???",
       "socialNetworks": [
@@ -192,8 +186,7 @@
         "image": "https://kings-league-api.aw3same.workers.dev/static/presidents/juan-guarnizo.png",
         "teamId": "aniquiladores-fc"
       }
-    },
-    "rank": 7
+    }
   },
   {
     "wins": 2,
@@ -206,7 +199,7 @@
       "id": "xbuyer-team",
       "name": "XBUYER TEAM",
       "image": "https://kingsleague.dev/teams/logos/xbuyer.svg",
-      "url": "",
+      "url": "https://kingsleague.pro/team/xbuyer-team/",
       "channel": "https://twitch.tv/1k",
       "coach": "???",
       "socialNetworks": [
@@ -219,8 +212,7 @@
         "image": "https://kings-league-api.aw3same.workers.dev/static/presidents/hnos-buyer.png",
         "teamId": "xbuyer-team"
       }
-    },
-    "rank": 8
+    }
   },
   {
     "wins": 2,
@@ -233,7 +225,7 @@
       "id": "los-troncos-fc",
       "name": "Los Troncos FC",
       "image": "https://kingsleague.dev/teams/logos/los-troncos.svg",
-      "url": "",
+      "url": "https://kingsleague.pro/team/los-troncos-fc/",
       "channel": "https://twitch.tv/1k",
       "coach": "???",
       "socialNetworks": [
@@ -249,8 +241,7 @@
         "image": "https://kings-league-api.aw3same.workers.dev/static/presidents/perxitaa.png",
         "teamId": "los-troncos-fc"
       }
-    },
-    "rank": 9
+    }
   },
   {
     "wins": 1,
@@ -263,7 +254,7 @@
       "id": "rayo-barcelona",
       "name": "Rayo de Barcelona",
       "image": "https://kingsleague.dev/teams/logos/rayo-barcelona.svg",
-      "url": "",
+      "url": "https://kingsleague.pro/team/rayo-barcelona/",
       "channel": "https://twitch.tv/1k",
       "coach": "???",
       "socialNetworks": [
@@ -279,8 +270,7 @@
         "image": "https://kings-league-api.aw3same.workers.dev/static/presidents/spursito.png",
         "teamId": "rayo-barcelona"
       }
-    },
-    "rank": 10
+    }
   },
   {
     "wins": 0,
@@ -293,7 +283,7 @@
       "id": "jijantes-fc",
       "name": "Jijantes FC",
       "image": "https://kingsleague.dev/teams/logos/jijantes.svg",
-      "url": "",
+      "url": "https://kingsleague.pro/team/jijantes-fc/",
       "channel": "https://twitch.tv/1k",
       "coach": "???",
       "socialNetworks": [
@@ -309,8 +299,7 @@
         "image": "https://kings-league-api.aw3same.workers.dev/static/presidents/gerard-romero.png",
         "teamId": "jijantes-fc"
       }
-    },
-    "rank": 11
+    }
   },
   {
     "wins": 0,
@@ -323,7 +312,7 @@
       "id": "pio-fc",
       "name": "PIO FC",
       "image": "https://kingsleague.dev/teams/logos/pio.svg",
-      "url": "",
+      "url": "https://kingsleague.pro/team/pio-fc/",
       "channel": "https://twitch.tv/1k",
       "coach": "???",
       "socialNetworks": [
@@ -337,7 +326,6 @@
         "image": "https://kings-league-api.aw3same.workers.dev/static/presidents/rivers.png",
         "teamId": "pio-fc"
       }
-    },
-    "rank": 12
+    }
   }
 ]
