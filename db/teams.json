@@ -73,7 +73,8 @@
     "coachInfo": {
       "name": "Julio García Mera",
       "image": "julio-garca-mera.png"
-    }
+    },
+    "shortName": "1K"
   },
   {
     "id": "el-barrio",
@@ -149,7 +150,8 @@
     "coachInfo": {
       "name": "Juan Arroita",
       "image": "juan-arroita.png"
-    }
+    },
+    "shortName": "RDB"
   },
   {
     "id": "ultimate-mostoles",
@@ -222,7 +224,8 @@
     "coachInfo": {
       "name": "Nacho Castro",
       "image": "nacho-castro.png"
-    }
+    },
+    "shortName": "ULT"
   },
   {
     "id": "los-troncos-fc",
@@ -298,7 +301,8 @@
     "coachInfo": {
       "name": "Pol Font",
       "image": "pol-font.png"
-    }
+    },
+    "shortName": "TFC"
   },
   {
     "id": "saiyans-fc",
@@ -371,7 +375,8 @@
     "coachInfo": {
       "name": "Daniel Romo",
       "image": "daniel-romo.png"
-    }
+    },
+    "shortName": "SAI"
   },
   {
     "id": "kunisports",
@@ -444,7 +449,8 @@
     "coachInfo": {
       "name": "Martín Posse",
       "image": "martn-posse.png"
-    }
+    },
+    "shortName": "KNS"
   },
   {
     "id": "jijantes-fc",
@@ -520,7 +526,8 @@
     "coachInfo": {
       "name": "Marc Carmona",
       "image": "marc-carmona.png"
-    }
+    },
+    "shortName": "JFC"
   },
   {
     "id": "porcinos-fc",
@@ -594,7 +601,8 @@
     "coachInfo": {
       "name": "Juvenal Edjogo-Owono",
       "image": "juvenal-edjogoowono.png"
-    }
+    },
+    "shortName": "POR"
   },
   {
     "id": "rayo-barcelona",
@@ -670,7 +678,8 @@
     "coachInfo": {
       "name": "JuanluDBZ",
       "image": "juanludbz.png"
-    }
+    },
+    "shortName": "RDB"
   },
   {
     "id": "xbuyer-team",
@@ -743,7 +752,8 @@
     "coachInfo": {
       "name": "Victor González",
       "image": "victor-gonzlez.png"
-    }
+    },
+    "shortName": "XBU"
   },
   {
     "id": "aniquiladores-fc",
@@ -816,7 +826,8 @@
     "coachInfo": {
       "name": "Sergio Verdirame",
       "image": "sergio-verdirame.png"
-    }
+    },
+    "shortName": "ANI"
   },
   {
     "id": "pio-fc",
@@ -890,6 +901,7 @@
     "coachInfo": {
       "name": "Gerardo Torrado",
       "image": "gerardo-torrado.png"
-    }
+    },
+    "shortName": "PIO"
   }
 ]
