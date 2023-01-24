@@ -1,6 +1,5 @@
 import * as cheerio from 'cheerio'
 import { writeDBFile } from '../db/index.js'
-import { getCoaches } from './coaches.js'
 import { getLeaderBoard } from './leaderboard.js'
 import { logError, logInfo, logSuccess } from './log.js'
 import { getMvp } from './mvp.js'

@@ -1,9 +1,9 @@
-import { createWorker } from 'wrangler'
+import { unstable_dev as unstableDev } from 'wrangler'
 import { describe, expect, it, beforeAll, afterAll, assertResponseOk } from 'vitest'
 
 const setup = async () => {
-  const worker = await createWorker('api/index.js')
-  return worker
+	const worker = await unstableDev('api/index.js', {}, { disableExperimentalWarning: true })
+	return worker
 }
 
 const teardown = async (worker) => {
