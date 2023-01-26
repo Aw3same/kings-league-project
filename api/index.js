@@ -4,7 +4,7 @@ import leaderboard from '../db/leaderboard.json'
 import teams from '../db/teams.json'
 import presidents from '../db/presidents.json'
 import coaches from '../db/coaches.json'
-import topScorer from '../db/top_scorer.json'
+import topScorer from '../db/top_scorers.json'
 import mvp from '../db/mvp.json'
 import assists from '../db/top_assists.json'
 
