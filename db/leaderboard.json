@@ -4,7 +4,7 @@
     "losses": 1,
     "scoredGoals": 27,
     "concededGoals": 17,
-    "yellowCards": 1,
+    "yellowCards": 10,
     "redCards": 0,
     "team": {
       "id": "porcinos-fc",
@@ -92,8 +92,8 @@
     "losses": 1,
     "scoredGoals": 15,
     "concededGoals": 7,
-    "yellowCards": 3,
-    "redCards": 1,
+    "yellowCards": 8,
+    "redCards": 0,
     "team": {
       "id": "saiyans-fc",
       "name": "Saiyans FC",
@@ -179,7 +179,7 @@
     "losses": 2,
     "scoredGoals": 22,
     "concededGoals": 17,
-    "yellowCards": 1,
+    "yellowCards": 5,
     "redCards": 0,
     "team": {
       "id": "ultimate-mostoles",
@@ -266,7 +266,7 @@
     "losses": 2,
     "scoredGoals": 15,
     "concededGoals": 14,
-    "yellowCards": 2,
+    "yellowCards": 1,
     "redCards": 0,
     "team": {
       "id": "kunisports",
@@ -353,7 +353,7 @@
     "losses": 4,
     "scoredGoals": 22,
     "concededGoals": 15,
-    "yellowCards": 1,
+    "yellowCards": 7,
     "redCards": 0,
     "team": {
       "id": "el-barrio",
@@ -443,7 +443,7 @@
     "losses": 4,
     "scoredGoals": 20,
     "concededGoals": 22,
-    "yellowCards": 0,
+    "yellowCards": -2,
     "redCards": 0,
     "team": {
       "id": "1k",
@@ -533,7 +533,7 @@
     "losses": 4,
     "scoredGoals": 19,
     "concededGoals": 21,
-    "yellowCards": 1,
+    "yellowCards": -2,
     "redCards": 0,
     "team": {
       "id": "aniquiladores-fc",
@@ -620,7 +620,7 @@
     "losses": 4,
     "scoredGoals": 20,
     "concededGoals": 23,
-    "yellowCards": 0,
+    "yellowCards": -3,
     "redCards": 0,
     "team": {
       "id": "rayo-barcelona",
@@ -710,7 +710,7 @@
     "losses": 4,
     "scoredGoals": 16,
     "concededGoals": 21,
-    "yellowCards": 3,
+    "yellowCards": -5,
     "redCards": 0,
     "team": {
       "id": "xbuyer-team",
@@ -797,8 +797,8 @@
     "losses": 4,
     "scoredGoals": 20,
     "concededGoals": 26,
-    "yellowCards": 2,
-    "redCards": 1,
+    "yellowCards": -6,
+    "redCards": 0,
     "team": {
       "id": "los-troncos-fc",
       "name": "Los Troncos FC",
@@ -887,7 +887,7 @@
     "losses": 5,
     "scoredGoals": 19,
     "concededGoals": 18,
-    "yellowCards": 4,
+    "yellowCards": 1,
     "redCards": 0,
     "team": {
       "id": "pio-fc",
@@ -975,7 +975,7 @@
     "losses": 7,
     "scoredGoals": 14,
     "concededGoals": 28,
-    "yellowCards": 2,
+    "yellowCards": -14,
     "redCards": 0,
     "team": {
       "id": "jijantes-fc",
