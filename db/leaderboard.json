@@ -1,7 +1,7 @@
 [
   {
     "wins": 6,
-    "losses": 1,
+    "losses": 2,
     "scoredGoals": 27,
     "concededGoals": 17,
     "yellowCards": 10,
@@ -89,10 +89,10 @@
   },
   {
     "wins": 6,
-    "losses": 1,
-    "scoredGoals": 15,
-    "concededGoals": 7,
-    "yellowCards": 8,
+    "losses": 2,
+    "scoredGoals": 16,
+    "concededGoals": 10,
+    "yellowCards": 6,
     "redCards": 0,
     "team": {
       "id": "saiyans-fc",
@@ -175,11 +175,11 @@
     }
   },
   {
-    "wins": 5,
+    "wins": 6,
     "losses": 2,
-    "scoredGoals": 22,
-    "concededGoals": 17,
-    "yellowCards": 5,
+    "scoredGoals": 24,
+    "concededGoals": 18,
+    "yellowCards": 6,
     "redCards": 0,
     "team": {
       "id": "ultimate-mostoles",
@@ -262,11 +262,11 @@
     }
   },
   {
-    "wins": 5,
+    "wins": 6,
     "losses": 2,
-    "scoredGoals": 15,
-    "concededGoals": 14,
-    "yellowCards": 1,
+    "scoredGoals": 18,
+    "concededGoals": 15,
+    "yellowCards": 3,
     "redCards": 0,
     "team": {
       "id": "kunisports",
@@ -349,11 +349,11 @@
     }
   },
   {
-    "wins": 3,
+    "wins": 4,
     "losses": 4,
-    "scoredGoals": 22,
-    "concededGoals": 15,
-    "yellowCards": 7,
+    "scoredGoals": 26,
+    "concededGoals": 17,
+    "yellowCards": 9,
     "redCards": 0,
     "team": {
       "id": "el-barrio",
@@ -439,101 +439,11 @@
     }
   },
   {
-    "wins": 3,
+    "wins": 4,
     "losses": 4,
-    "scoredGoals": 20,
-    "concededGoals": 22,
-    "yellowCards": -2,
-    "redCards": 0,
-    "team": {
-      "id": "1k",
-      "name": "1K FC",
-      "image": "https://kingsleague.dev/teams/logos/1k.svg",
-      "url": "https://kingsleague.pro/team/1k/",
-      "channel": "https://www.twitch.tv/ikercasillas",
-      "coach": "???",
-      "socialNetworks": [
-        "https://www.instagram.com/1kfutbolclub/?hl=es",
-        "https://twitter.com/1kfutbolclub",
-        "https://www.youtube.com/c/IkerCasillas",
-        "https://www.tiktok.com/@1kfutbolclub"
-      ],
-      "players": [
-        {
-          "name": "Ricardo",
-          "role": "jugador 11",
-          "image": "1k-ricardo.png"
-        },
-        {
-          "name": "Román",
-          "role": "Defensa",
-          "image": "1k-romn.png"
-        },
-        {
-          "name": "Sorroche",
-          "role": "Delantero",
-          "image": "1k-sorroche.png"
-        },
-        {
-          "name": "Marino",
-          "role": "Delantero",
-          "image": "1k-marino.png"
-        },
-        {
-          "name": "Ledo",
-          "role": "Defensa",
-          "image": "1k-ledo.png"
-        },
-        {
-          "name": "Sauras",
-          "role": "Defensa",
-          "image": "1k-sauras.png"
-        },
-        {
-          "name": "Bruno",
-          "role": "Defensa",
-          "image": "1k-bruno.png"
-        },
-        {
-          "name": "Pluvins",
-          "role": "Medio",
-          "image": "1k-pluvins.png"
-        },
-        {
-          "name": "Rivero",
-          "role": "Medio",
-          "image": "1k-rivero.png"
-        },
-        {
-          "name": "Lautaro",
-          "role": "Delantero",
-          "image": "1k-lautaro.png"
-        },
-        {
-          "name": "Günter",
-          "role": "Delantero",
-          "image": "1k-gnter.png"
-        }
-      ],
-      "coachInfo": {
-        "name": "Julio García Mera",
-        "image": "julio-garca-mera.png"
-      },
-      "shortName": "1K",
-      "president": {
-        "id": "iker-casillas",
-        "name": "Iker Casillas",
-        "image": "https://kings-league-api.aw3same.workers.dev/static/presidents/iker-casillas.png",
-        "teamId": "1k"
-      }
-    }
-  },
-  {
-    "wins": 3,
-    "losses": 4,
-    "scoredGoals": 19,
-    "concededGoals": 21,
-    "yellowCards": -2,
+    "scoredGoals": 23,
+    "concededGoals": 23,
+    "yellowCards": 0,
     "redCards": 0,
     "team": {
       "id": "aniquiladores-fc",
@@ -616,188 +526,11 @@
     }
   },
   {
-    "wins": 3,
+    "wins": 4,
     "losses": 4,
-    "scoredGoals": 20,
-    "concededGoals": 23,
-    "yellowCards": -3,
-    "redCards": 0,
-    "team": {
-      "id": "rayo-barcelona",
-      "name": "Rayo de Barcelona",
-      "image": "https://kingsleague.dev/teams/logos/rayo-barcelona.svg",
-      "url": "https://kingsleague.pro/team/rayo-barcelona/",
-      "channel": "https://twitch.tv/1k",
-      "coach": "???",
-      "socialNetworks": [
-        "https://www.twitch.tv/spursito",
-        "https://www.instagram.com/rayodebarcelona/?hl=es",
-        "https://twitter.com/RayodeBarcelona",
-        "https://www.tiktok.com/@rayodebarcelona"
-      ],
-      "players": [
-        {
-          "name": "Poloteli",
-          "role": "jugador 11",
-          "image": "rayo-barcelona-poloteli.png"
-        },
-        {
-          "name": "Pelaz",
-          "role": "Medio",
-          "image": "rayo-barcelona-pelaz.png"
-        },
-        {
-          "name": "Canet",
-          "role": "Portero",
-          "image": "rayo-barcelona-canet.png"
-        },
-        {
-          "name": "Guillem ZZ",
-          "role": "Delantero",
-          "image": "rayo-barcelona-guillem-zz.png"
-        },
-        {
-          "name": "M. Reyes",
-          "role": "Defensa",
-          "image": "rayo-barcelona-m-reyes.png"
-        },
-        {
-          "name": "Franky P.",
-          "role": "Medio",
-          "image": "rayo-barcelona-franky-p.png"
-        },
-        {
-          "name": "Dani P.",
-          "role": "Medio",
-          "image": "rayo-barcelona-dani-p.png"
-        },
-        {
-          "name": "Alejandro",
-          "role": "Defensa",
-          "image": "rayo-barcelona-alejandro.png"
-        },
-        {
-          "name": "Biboum M.",
-          "role": "Delantero",
-          "image": "rayo-barcelona-biboum-m.png"
-        },
-        {
-          "name": "Jonathan",
-          "role": "Medio",
-          "image": "rayo-barcelona-jonathan.png"
-        },
-        {
-          "name": "Alex Race",
-          "role": "Delantero",
-          "image": "rayo-barcelona-alex-race.png"
-        }
-      ],
-      "coachInfo": {
-        "name": "JuanluDBZ",
-        "image": "juanludbz.png"
-      },
-      "shortName": "RDB",
-      "president": {
-        "id": "spursito",
-        "name": "Spursito",
-        "image": "https://kings-league-api.aw3same.workers.dev/static/presidents/spursito.png",
-        "teamId": "rayo-barcelona"
-      }
-    }
-  },
-  {
-    "wins": 3,
-    "losses": 4,
-    "scoredGoals": 16,
-    "concededGoals": 21,
+    "scoredGoals": 25,
+    "concededGoals": 30,
     "yellowCards": -5,
-    "redCards": 0,
-    "team": {
-      "id": "xbuyer-team",
-      "name": "XBUYER TEAM",
-      "image": "https://kingsleague.dev/teams/logos/xbuyer.svg",
-      "url": "https://kingsleague.pro/team/xbuyer-team/",
-      "channel": "https://twitch.tv/1k",
-      "coach": "???",
-      "socialNetworks": [
-        "https://www.youtube.com/xbuyer"
-      ],
-      "players": [
-        {
-          "name": "C. Castro",
-          "role": "jugador 11",
-          "image": "xbuyer-team-c-castro.png"
-        },
-        {
-          "name": "Capi",
-          "role": "Portero",
-          "image": "xbuyer-team-capi.png"
-        },
-        {
-          "name": "Poch",
-          "role": "Delantero",
-          "image": "xbuyer-team-poch.png"
-        },
-        {
-          "name": "Iñaki",
-          "role": "Medio",
-          "image": "xbuyer-team-iaki.png"
-        },
-        {
-          "name": "Dani",
-          "role": "Defensa",
-          "image": "xbuyer-team-dani.png"
-        },
-        {
-          "name": "Granero",
-          "role": "Delantero",
-          "image": "xbuyer-team-granero.png"
-        },
-        {
-          "name": "Goran",
-          "role": "Medio",
-          "image": "xbuyer-team-goran.png"
-        },
-        {
-          "name": "Bañuls",
-          "role": "Defensa",
-          "image": "xbuyer-team-bauls.png"
-        },
-        {
-          "name": "Franc",
-          "role": "Medio",
-          "image": "xbuyer-team-franc.png"
-        },
-        {
-          "name": "B. Sierra",
-          "role": "Delantero",
-          "image": "xbuyer-team-b-sierra.png"
-        },
-        {
-          "name": "Sep",
-          "role": "Portero",
-          "image": "xbuyer-team-sep.png"
-        }
-      ],
-      "coachInfo": {
-        "name": "Victor González",
-        "image": "victor-gonzlez.png"
-      },
-      "shortName": "XBU",
-      "president": {
-        "id": "hnos-buyer",
-        "name": "Hnos. Buyer",
-        "image": "https://kings-league-api.aw3same.workers.dev/static/presidents/hnos-buyer.png",
-        "teamId": "xbuyer-team"
-      }
-    }
-  },
-  {
-    "wins": 3,
-    "losses": 4,
-    "scoredGoals": 20,
-    "concededGoals": 26,
-    "yellowCards": -6,
     "redCards": 0,
     "team": {
       "id": "los-troncos-fc",
@@ -883,7 +616,7 @@
     }
   },
   {
-    "wins": 2,
+    "wins": 3,
     "losses": 5,
     "scoredGoals": 19,
     "concededGoals": 18,
@@ -971,11 +704,278 @@
     }
   },
   {
+    "wins": 3,
+    "losses": 5,
+    "scoredGoals": 24,
+    "concededGoals": 27,
+    "yellowCards": -3,
+    "redCards": 0,
+    "team": {
+      "id": "1k",
+      "name": "1K FC",
+      "image": "https://kingsleague.dev/teams/logos/1k.svg",
+      "url": "https://kingsleague.pro/team/1k/",
+      "channel": "https://www.twitch.tv/ikercasillas",
+      "coach": "???",
+      "socialNetworks": [
+        "https://www.instagram.com/1kfutbolclub/?hl=es",
+        "https://twitter.com/1kfutbolclub",
+        "https://www.youtube.com/c/IkerCasillas",
+        "https://www.tiktok.com/@1kfutbolclub"
+      ],
+      "players": [
+        {
+          "name": "Ricardo",
+          "role": "jugador 11",
+          "image": "1k-ricardo.png"
+        },
+        {
+          "name": "Román",
+          "role": "Defensa",
+          "image": "1k-romn.png"
+        },
+        {
+          "name": "Sorroche",
+          "role": "Delantero",
+          "image": "1k-sorroche.png"
+        },
+        {
+          "name": "Marino",
+          "role": "Delantero",
+          "image": "1k-marino.png"
+        },
+        {
+          "name": "Ledo",
+          "role": "Defensa",
+          "image": "1k-ledo.png"
+        },
+        {
+          "name": "Sauras",
+          "role": "Defensa",
+          "image": "1k-sauras.png"
+        },
+        {
+          "name": "Bruno",
+          "role": "Defensa",
+          "image": "1k-bruno.png"
+        },
+        {
+          "name": "Pluvins",
+          "role": "Medio",
+          "image": "1k-pluvins.png"
+        },
+        {
+          "name": "Rivero",
+          "role": "Medio",
+          "image": "1k-rivero.png"
+        },
+        {
+          "name": "Lautaro",
+          "role": "Delantero",
+          "image": "1k-lautaro.png"
+        },
+        {
+          "name": "Günter",
+          "role": "Delantero",
+          "image": "1k-gnter.png"
+        }
+      ],
+      "coachInfo": {
+        "name": "Julio García Mera",
+        "image": "julio-garca-mera.png"
+      },
+      "shortName": "1K",
+      "president": {
+        "id": "iker-casillas",
+        "name": "Iker Casillas",
+        "image": "https://kings-league-api.aw3same.workers.dev/static/presidents/iker-casillas.png",
+        "teamId": "1k"
+      }
+    }
+  },
+  {
+    "wins": 3,
+    "losses": 5,
+    "scoredGoals": 22,
+    "concededGoals": 27,
+    "yellowCards": -5,
+    "redCards": 0,
+    "team": {
+      "id": "rayo-barcelona",
+      "name": "Rayo de Barcelona",
+      "image": "https://kingsleague.dev/teams/logos/rayo-barcelona.svg",
+      "url": "https://kingsleague.pro/team/rayo-barcelona/",
+      "channel": "https://twitch.tv/1k",
+      "coach": "???",
+      "socialNetworks": [
+        "https://www.twitch.tv/spursito",
+        "https://www.instagram.com/rayodebarcelona/?hl=es",
+        "https://twitter.com/RayodeBarcelona",
+        "https://www.tiktok.com/@rayodebarcelona"
+      ],
+      "players": [
+        {
+          "name": "Poloteli",
+          "role": "jugador 11",
+          "image": "rayo-barcelona-poloteli.png"
+        },
+        {
+          "name": "Pelaz",
+          "role": "Medio",
+          "image": "rayo-barcelona-pelaz.png"
+        },
+        {
+          "name": "Canet",
+          "role": "Portero",
+          "image": "rayo-barcelona-canet.png"
+        },
+        {
+          "name": "Guillem ZZ",
+          "role": "Delantero",
+          "image": "rayo-barcelona-guillem-zz.png"
+        },
+        {
+          "name": "M. Reyes",
+          "role": "Defensa",
+          "image": "rayo-barcelona-m-reyes.png"
+        },
+        {
+          "name": "Franky P.",
+          "role": "Medio",
+          "image": "rayo-barcelona-franky-p.png"
+        },
+        {
+          "name": "Dani P.",
+          "role": "Medio",
+          "image": "rayo-barcelona-dani-p.png"
+        },
+        {
+          "name": "Alejandro",
+          "role": "Defensa",
+          "image": "rayo-barcelona-alejandro.png"
+        },
+        {
+          "name": "Biboum M.",
+          "role": "Delantero",
+          "image": "rayo-barcelona-biboum-m.png"
+        },
+        {
+          "name": "Jonathan",
+          "role": "Medio",
+          "image": "rayo-barcelona-jonathan.png"
+        },
+        {
+          "name": "Alex Race",
+          "role": "Delantero",
+          "image": "rayo-barcelona-alex-race.png"
+        }
+      ],
+      "coachInfo": {
+        "name": "JuanluDBZ",
+        "image": "juanludbz.png"
+      },
+      "shortName": "RDB",
+      "president": {
+        "id": "spursito",
+        "name": "Spursito",
+        "image": "https://kings-league-api.aw3same.workers.dev/static/presidents/spursito.png",
+        "teamId": "rayo-barcelona"
+      }
+    }
+  },
+  {
+    "wins": 3,
+    "losses": 5,
+    "scoredGoals": 17,
+    "concededGoals": 23,
+    "yellowCards": -6,
+    "redCards": 0,
+    "team": {
+      "id": "xbuyer-team",
+      "name": "XBUYER TEAM",
+      "image": "https://kingsleague.dev/teams/logos/xbuyer.svg",
+      "url": "https://kingsleague.pro/team/xbuyer-team/",
+      "channel": "https://twitch.tv/1k",
+      "coach": "???",
+      "socialNetworks": [
+        "https://www.youtube.com/xbuyer"
+      ],
+      "players": [
+        {
+          "name": "C. Castro",
+          "role": "jugador 11",
+          "image": "xbuyer-team-c-castro.png"
+        },
+        {
+          "name": "Capi",
+          "role": "Portero",
+          "image": "xbuyer-team-capi.png"
+        },
+        {
+          "name": "Poch",
+          "role": "Delantero",
+          "image": "xbuyer-team-poch.png"
+        },
+        {
+          "name": "Iñaki",
+          "role": "Medio",
+          "image": "xbuyer-team-iaki.png"
+        },
+        {
+          "name": "Dani",
+          "role": "Defensa",
+          "image": "xbuyer-team-dani.png"
+        },
+        {
+          "name": "Granero",
+          "role": "Delantero",
+          "image": "xbuyer-team-granero.png"
+        },
+        {
+          "name": "Goran",
+          "role": "Medio",
+          "image": "xbuyer-team-goran.png"
+        },
+        {
+          "name": "Bañuls",
+          "role": "Defensa",
+          "image": "xbuyer-team-bauls.png"
+        },
+        {
+          "name": "Franc",
+          "role": "Medio",
+          "image": "xbuyer-team-franc.png"
+        },
+        {
+          "name": "B. Sierra",
+          "role": "Delantero",
+          "image": "xbuyer-team-b-sierra.png"
+        },
+        {
+          "name": "Sep",
+          "role": "Portero",
+          "image": "xbuyer-team-sep.png"
+        }
+      ],
+      "coachInfo": {
+        "name": "Victor González",
+        "image": "victor-gonzlez.png"
+      },
+      "shortName": "XBU",
+      "president": {
+        "id": "hnos-buyer",
+        "name": "Hnos. Buyer",
+        "image": "https://kings-league-api.aw3same.workers.dev/static/presidents/hnos-buyer.png",
+        "teamId": "xbuyer-team"
+      }
+    }
+  },
+  {
     "wins": 0,
-    "losses": 7,
-    "scoredGoals": 14,
-    "concededGoals": 28,
-    "yellowCards": -14,
+    "losses": 8,
+    "scoredGoals": 16,
+    "concededGoals": 32,
+    "yellowCards": -16,
     "redCards": 0,
     "team": {
       "id": "jijantes-fc",
